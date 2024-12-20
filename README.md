@@ -26,7 +26,7 @@ A Streamlit-based web application to automate the creation of seating plans and 
 
 ## Installation  
 1. Clone the repository:  
-   ```` 
+   ``git clone https://github.com/techie-sakshi/Seating-Arrangement.git`` 
 
 2. Install dependencies:  
    ``pip install -r requirements.txt`` 
