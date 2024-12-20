@@ -34,7 +34,7 @@ A Streamlit-based web application to automate the creation of seating plans and 
 ## Run the Application  
 Run the Streamlit app with:  
 ```bash
-streamlit run exam_seating_plan.py
+streamlit run app.py
 ```  
 Access the app at `http://localhost:8501` in your browser.  
 
